@@ -4,9 +4,9 @@
       "description": "Nerdyss Resource pack"
    },
    "language": {
-      "Jean_Pière": {
-         "name": "Jean-Pière",
-         "region" : België",
+      "nerdyss": {
+         "name": "uze toale",
+         "region" : "Kaasplank",
          "bidirectional": false
       }
    }
