@@ -1,0 +1,13 @@
+{
+   "pack": {
+      "pack_format": 5,
+      "description": "Nerdyss Resource pack"
+   },
+   "language": {
+      "Jean_Pière": {
+         "name": "Jean-Pière",
+         "region" : België",
+         "bidirectional": false
+      }
+   }
+}
