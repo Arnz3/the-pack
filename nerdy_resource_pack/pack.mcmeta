@@ -1,0 +1,13 @@
+{
+   "pack": {
+      "pack_format": 5,
+      "description": "Nerdyss Resource pack"
+   },
+   "language": {
+      "nerdyss": {
+         "name": "Jean-Piere",
+         "region" : "Kaasplank",
+         "bidirectional": false
+      }
+   }
+}
